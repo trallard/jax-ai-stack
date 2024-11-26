@@ -17,6 +17,7 @@ JAX_basic_text_classification
 JAX_examples_image_segmentation
 JAX_Vision_transformer
 JAX_machine_translation
+data_loaders_for_multi_device_setups_with_jax
 ```
 
 Once you've gone through this content, you can refer to package-specific
